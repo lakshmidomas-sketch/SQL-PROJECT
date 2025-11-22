@@ -44,4 +44,4 @@ Implement triggers for real-time payment updates.
 
 🧑‍💻 Author :
 
-Thulasi G  📍Arakkonam, TamilNadu, India 📧 thulasikaviya85@gmail.com
+Lakshmi D 📍Arakkonam, TamilNadu, India 📧 lakshmidomas@gmail.com
